@@ -1,0 +1,15 @@
+Ques-4: Identify and correct the invalid variable names from this list: 1stPlayer, player_age, $score, total-marks, userName.<br><br><em><strong> 
+        -----------------------------------------------------------------------------------------------------------------------------------------
+        Hint:</strong> Apply standard variable naming rules for your programming language.</em>
+        ---------------------------------------------------------------------------------------
+
+
+Ans: incorrect____________________correct
+                      |
+     1stplayer        |        player_age
+     $score           |        userName
+     total-marks      |
+     ______________________________________
+
+     note:-variable only includes underscore and don't accept any space and other sign like total-marks has (-)sign, special character like here $score has $ 
+           which is a special character and do not support numerics in starting like 1stplayer has 1 in it.

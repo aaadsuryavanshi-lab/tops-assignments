@@ -1,0 +1,49 @@
+Ques-4: Write down the steps (as an algorithm, using simple numbered instructions) for ordering food on Swiggy — from opening the app 
+        -----------------------------------------------------------------------------------------------------------------------------
+        to completing payment.
+        ----------------------
+
+
+Ans: Ordering food on Swiggy can be done in a few simple steps through their app or website by selecting your location, choosing a 
+---- restaurant, adding items to the cart, and completing payment.
+     
+     *Algorithm for Ordering Food :
+
+      1). Open Swiggy App or Website: Download the Swiggy app from Google Play Store or Apple App Store, or visit www.swiggy.com in a  
+          --------------------------  browser.
+
+
+      2). Set Your Delivery Location: Enter your current address in Surat, Gujarat, or any other location where you want the food 
+          --------------------------  delivered. This ensures the app shows restaurants that deliver to your area.
+
+
+      3). Browse Restaurants or Cuisines: Explore available restaurants, featured items, or filter by cuisine, rating, cost, or 
+          ------------------------------  delivery time to find food that suits your preference.
+
+
+      4). Select Items: Tap on a restaurant and then select food items. Choose quantities, add special instructions if needed, and add 
+          ------------  items to your cart.
+
+
+      5). Review Cart: Open your cart to verify order items, check prices, and make adjustments if needed. You can also apply promo 
+          -----------  codes or discounts at this stage if available.
+
+
+      6). Proceed to Checkout: Click on the "Checkout" or "Place Order" button. Confirm your delivery address, contact details, and  
+          -------------------  preferred delivery instructions.
+
+
+      7). Choose Payment Method: Pick a payment method such as UPI, credit/debit card, Net Banking, wallet, or cash on delivery.
+          ---------------------
+
+
+      8). Place the Order: After reviewing the final details, click Place Order to confirm. You will receive an order confirmation and 
+          ---------------  estimated delivery time.
+
+
+      9). Track Your Order: Use the app to track your order in real-time, from restaurant confirmation to the delivery partner picking 
+          ----------------  up your food and finally reaching your location.
+
+
+      10). Receive Order and Feedback: Collect your food when delivered, check for correctness and quality, and optionally provide 
+           --------------------------  ratings or feedback for the restaurant and delivery partner.

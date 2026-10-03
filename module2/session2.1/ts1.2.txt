@@ -1,0 +1,37 @@
+Ques-2: List three popular programming languages you have heard of, and for each, mention whether it is usually compiled, 
+        -----------------------------------------------------------------------------------------------------------------
+        interpreted, or can be both.<br><br><em><strong>Hint:</strong> Think of languages like Java, Python, and JavaScript. 
+        --------------------------------------------------------------------------------------------------------------------
+
+
+Ans: Here are three widely used programming languages and their typical applications:
+----
+     1). Python :
+         --------
+
+            Usage Type: General-purpose programming
+            
+            Details: Python is highly versatile and popular across various domains including web development, data 
+                     analysis, machine learning, automation, scientific computing, and scripting. Its simple and readable 
+                     syntax makes it suitable for both beginners and experienced developers. While it is general-purpose, 
+                     Python has specialized libraries like TensorFlow or Pandas for particular tasks.
+      
+
+      2). JavaScript :
+          ------------
+
+            Usage Type: Primarily specialized (web development), but can also be used for general-purpose tasks
+
+            Details: JavaScript is mainly used for client-side web development, creating interactive web pages and front-end 
+                     applications. Through environments like Node.js, it can also be used for server-side development and general-
+                     purpose programming. Its core strength still lies in web applications and front-end interactivity.
+
+
+      3). C :
+          ---
+            Usage Type: General-purpose programming
+        
+            Details: C is a powerful, low-level programming language widely used for system programming, embedded systems, operating 
+                     systems, and performance-critical applications. Despite its ability to handle specialized systems programming 
+                     tasks, it remains general-purpose because it can be applied to a wide variety of applications, from software 
+                     development to hardware interfacing.

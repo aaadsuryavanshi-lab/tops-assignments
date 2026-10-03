@@ -1,0 +1,8 @@
+Ques-3: Run nslookup google.com on your system and write down the IP address you get.
+        -----------------------------------------------------------------------------
+
+
+Ans: Address:  10.163.52.86
+     
+     Addresses:  2404:6800:4009:805::200e
+                 142.250.70.46

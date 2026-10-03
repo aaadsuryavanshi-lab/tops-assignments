@@ -1,0 +1,11 @@
+Ques-4: What do these HTTP status codes mean: 200, 301, 404, 500, 403?
+        --------------------------------------------------------------
+
+
+Ans:1). 200: OK - The request was successfully received and processed. 
+
+    2). 301: Moved Permanent: The server has permanently moved the requested resource to a new URL.
+
+    3). 404: Not Found: The server could not find the requested resource.
+
+    4). 500: Internal Server Error: The server encountered an error while processing the request.

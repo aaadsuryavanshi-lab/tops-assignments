@@ -1,0 +1,22 @@
+Ques: Explain in your own words the difference between encapsulation and abstraction, using examples from any social media app you use daily (like    
+      Instagram or WhatsApp).
+
+Ans: 
+----
+Encapsulation means hiding data and allowing access to it through specific methods.
+
+Example – Instagram:
+Your phone number or password is kept private. You cannot directly change it; you use proper settings or methods to update it.
+
+Abstraction means hiding the internal working and showing only the important features to the user.
+
+Example – WhatsApp:
+When you send a message, you simply click the Send button. You don't need to know how the message is processed and delivered in the background.
+
+In simple words:
+Encapsulation → Hides data and controls access to it.
+Abstraction → Hides complex working and shows only what is needed.
+
+Example to remember:
+Instagram's private user information = Encapsulation
+WhatsApp's simple "Send Message" feature = Abstraction.

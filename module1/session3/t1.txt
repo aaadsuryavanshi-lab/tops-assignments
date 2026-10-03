@@ -1,0 +1,13 @@
+Ques-1: Write the full form and one-line use of: HTTP, HTTPS, FTP, SMTP.
+        ----------------------------------------------------------------
+
+
+Ans: 1). HTTP (HyperText Transfer Protocol) — Used for transferring and displaying web pages over the internet.
+         ----  
+     2). HTTPS (HyperText Transfer Protocol Secure) — A secure version of HTTP that encrypts data for safe communication between a web        
+         -----                                        browser and server.
+
+     3). FTP (File Transfer Protocol) — Used for transferring files between a client and a server across a network. 
+         ---
+     4). SMTP (Simple Mail Transfer Protocol) — Used for sending and routing emails between mail servers and clients.
+         ----

@@ -1,0 +1,29 @@
+Ques-5: Explain DNS hierarchy (root, TLD, domain, subdomain) with www.google.com as an example.
+        ---------------------------------------------------------------------------------------
+
+
+Ans: The DNS hierarchy consists of several levels, starting from the root level down to the subdomain level. Here’s a breakdown:
+
+    *Root Level: The topmost level of the DNS hierarchy, represented by a dot (.) or an empty string. It points to the authoritative   
+     ----------
+     servers for the top-level domains (TLDs). 
+
+
+    *Top-Level Domains (TLDs): These are the first level below the root and help classify websites based on purpose or organization type. 
+     ------------------------
+     For Examples include .com, .org, and .gov. 
+
+
+    *Second-Level Domains: These are the main domain names registered by organizations. 
+     --------------------
+     For example, in "www.google.com", "google" is the second-level domain. 
+
+    *Subdomains: Extensions of the main domain used for organization. 
+     ----------
+     For example, "www" is a subdomain of "google".
+ 
+
+    *Hostnames: Identifies specific servers or devices within a domain. 
+     ---------
+     For example, "mail.google.com" is a hostname within the "google" domain. 
+

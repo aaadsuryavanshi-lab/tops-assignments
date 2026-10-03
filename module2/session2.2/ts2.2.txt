@@ -1,0 +1,17 @@
+Ques-2: Open VS Code or DevC++ and create a new file named hello.c. Write a C program that prints 'Hello, Instagram World!' to the 
+        ---------------------------------------------------------------------------------------------------------------------------
+        console.
+        --------
+
+
+Ans: 
+----
+     #include <stdio.h>  // Standard input/output library
+
+     int main() {
+              // Print the message to the console
+              printf("Hello, Instagram World!\n");
+              return 0; // Indicate successful program termination
+}
+
+______________________________________________________________________________________________________________________________________

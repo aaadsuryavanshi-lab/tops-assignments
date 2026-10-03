@@ -1,0 +1,10 @@
+Ques-1: Write a short paragraph in your own words defining what a 'program' is and give one real-life example from 
+        ----------------------------------------------------------------------------------------------------------
+        any app you use daily (like Instagram, Zomato, or Paytm).
+        ---------------------------------------------------------
+
+
+Ans: A program is a set of instructions written in a programming language that tells a computer how to perform 
+---- specific tasks or solve problems. Programs can range from simple instructions like calculating a sum to complex 
+     applications with many functionalities. A real-life example of a program is a calculator app on a smartphone, 
+     which takes user input, processes the arithmetic according to programmed rules, and displays the correct result.

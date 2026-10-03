@@ -1,0 +1,8 @@
+Ques-2: What is the difference between IPv4 and IPv6? Answer in 2 lines.
+        ----------------------------------------------------------------
+
+Ans: IPv4 uses 32-bit addresses allowing about 4.3 billion unique addresses, whereas IPv6 uses 128-bit addresses providing a vastly larger     
+     
+     address space. IPv6 also includes improved features such as simplified headers, auto-configuration, and better support for security 
+     
+     and mobility.
